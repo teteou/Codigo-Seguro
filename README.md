@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Jorge Rubín Roger
+[ex. Jorge Rubín Roger](jorge.md)
 
 [ex. Matheus Ferreira Amorim-Trindade](matheus.md)
 

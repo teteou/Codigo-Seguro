@@ -1,22 +1,10 @@
-<<<<<<< HEAD
 # Project Title
 
 Codigo Seguro.
 
 ## Description
 
-Repositorio para incluir las mejores prácticas de creación de código seguro.
-=======
-# Codigo-Seguro
-
-# Project Title
-
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
->>>>>>> 69924b9bb37acbb7474ef0786b6b85b89f90074d
+Repositorio para incluir las mejores prácticas de creación de código seguro. hemos hechop nustrtos pirmeros commits y trabien hemos solucionado nuestros primoeros conflictos.
 
 ## Getting Started
 
@@ -49,13 +37,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-<<<<<<< HEAD
 ex. J  
-ex. 
-=======
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
->>>>>>> 69924b9bb37acbb7474ef0786b6b85b89f90074d
+ex. Matheus Ferreira Amorim-Trindade 
 
 ## Version History
 
